@@ -1,0 +1,39 @@
+AgACAgIAAxkBAAILW2SAxyveSARvbBZDNwrabJEG7wJsAAKOyjEbyrIISAb40Qpzf_FAAQADAgADeAADLwQ	150000	"Артикул: MGWR0033 Материал: Серебро Проба: 925 Серебряное кольцо MGWR0033 Дракон
+
+AgACAgIAAxkBAAILX2SAxytXUddKHSOX_djuOV33Y_pvAAKNyjEbyrIISCUO7CDTCo83AQADAgADeQADLwQ	151600	"Артикул: MGWR0033 Материал: Серебро Проба: 925	Серебряное кольцо MGWR0033 Утонченность
+
+AgACAgIAAxkBAAILXmSAxyt75unAgrrAoHWzhBF76WSgAAKMyjEbyrIISBNc0k7rn31wAQADAgADeAADLwQ	170000	"Артикул: MGWR0033 Материал: Серебро Проба: 925	Серебряное кольцо MGWR0033 Калавера
+
+AgACAgIAAxkBAAILXWSAxyuuWK1bu9P2PMKiwcVUSyMhAAKLyjEbyrIISLe1mnC55QYrAQADAgADeAADLwQ	300333	"Артикул: MGWR0033 Материал: Серебро Проба: 925	Серебряный перстень MGWR0033 Калавера
+
+AgACAgIAAxkBAAILXGSAxyuYgCvVZbVJah0JLQ5haOLrAAKPyjEbyrIISDtbbxDDINfIAQADAgADeAADLwQ	163000	"Артикул: MGWR0033 Материал: Серебро Проба: 925	Серебряное кольцо MGWR0033 Узы
+
+AgACAgIAAxkBAAILb2SBj60ULtdECEyglQySEyMAASq4dwACOcYxG8qyEEiXK_JOnliAIAEAAwIAA3gAAy8E	900000	"Артикул: MGWB0033 Материал: Серебро Проба: 905	Серебрянный браслет MGWB0033 Трон
+
+AgACAgIAAxkBAAILcGSBj62JST8bXvrPcKz6SxAtlb7XAAI6xjEbyrIQSNqpwonNffBuAQADAgADeQADLwQ	340000	"Артикул: MGWB0033 Материал: Серебро Проба: 905	Серебрянный браслет MGWB0033 Связь
+
+AgACAgIAAxkBAAILcWSBj64VVEuJScPiZ2mnz74xBKSwAAI7xjEbyrIQSCB_2Fx35IiYAQADAgADeQADLwQ	400000	"Артикул: MGWB0033 Материал: Серебро Проба: 905	Серебрянный браслет MGWB0033 Элегант
+
+AgACAgIAAxkBAAILcmSBj67T4sNDwablRSwbmKaR2Z7QAAI8xjEbyrIQSIqm1K0ES-uIAQADAgADbQADLwQ	500000	"Артикул: MGWB0033 Материал: Серебро Проба: 915	Серебрянный браслет MGWB0033 Шик
+
+AgACAgIAAxkBAAILc2SBj65xBD-pUeC2PjGoSkof2TUTAAI4xjEbyrIQSNfF5SRVhgfnAQADAgADeAADLwQ	330000	"Артикул: MGWB0033 Материал: Серебро Проба: 905	Серебрянный браслет MGWB0033 Коса
+
+AgACAgIAAxkBAAILdGSBmSPTtS9CshtE3ukjEons7fUgAAJzxjEbyrIQSGOT1hD_4skTAQADAgADeAADLwQ	150000	"Артикул: MGWE0033 Материал: Серебро Проба: 905	Серебрянные серьги  MGWE0033 Гравитация
+
+AgACAgIAAxkBAAILdWSBmSNPiEkWiMiuEW2BU4F4M1piAAJ0xjEbyrIQSHLXszJ1rpf2AQADAgADeQADLwQ	140000	"Артикул: MGWE0033 Материал: Серебро Проба: 912	Серебрянные серьги  MGWE0033 Котики
+
+AgACAgIAAxkBAAILdmSBmSM-Izlq4sKJflCt74FEt1v8AAJ1xjEbyrIQSJGV33yy00vUAQADAgADeQADLwQ	100000	"Артикул: MGWE0033 Материал: Серебро Проба: 915	Серебрянные серьги  MGWE0033 Пирамида
+
+AgACAgIAAxkBAAILd2SBmSRNNoX0bTJSyi_Jo4lWb6Z-AAJ2xjEbyrIQSE9JbzvoY7zhAQADAgADeAADLwQ	125000	"Артикул: MGWE0033 Материал: Серебро Проба: 945	Серебрянные серьги  MGWE0033 Опасность
+
+AgACAgIAAxkBAAILeGSBmSR-WNsThW3ND-nZCxbl--vIAAJ3xjEbyrIQSIfcr6gKdSHoAQADAgADeAADLwQ	118000	"Артикул: MGWE0033 Материал: Серебро Проба: 925	Серебрянные серьги  MGWE0033 Модерн
+
+AgACAgIAAxkBAAILeWSBm6XO0pkmUU4yrLE1iJ2LknacAAKLxjEbyrIQSPiBqkRf8cWpAQADAgADeAADLwQ	1000000	"Артикул: MGWС0033 Материал: Серебро Проба: 913	Серебрянные подвеска MGWС0033 Вампир
+
+AgACAgIAAxkBAAILemSBm6bGK8ZmGgyBVE0QFG8RrQ0xAAKMxjEbyrIQSHaBT5iq4qCpAQADAgADeAADLwQ	1200000	"Артикул: MGWС0033 Материал: Серебро Проба: 913	Серебрянные кулон MGWС0033 Пентаграмма
+
+AgACAgIAAxkBAAILe2SBm6ZqGEpFzh6_qGToboQTy0mGAAKNxjEbyrIQSMXJwfeeNU6KAQADAgADeQADLwQ	1100000	"Артикул: MGWС0033 Материал: Серебро Проба: 913	Серебрянные кулон MGWС0033 Пульс
+
+AgACAgIAAxkBAAILfGSBm6b24Mu6bKp4rYkUkTR9mmVaAAKOxjEbyrIQSDIsoC2OKv-dAQADAgADeAADLwQ	1250000	"Артикул: MGWС0033 Материал: Серебро Проба: 913	Серебрянные подвеска MGWС0033 Природа
+
+AgACAgIAAxkBAAILfWSBm6e9fYPxxKB4_ATk0KxLDRqPAAKPxjEbyrIQSErOIxuq-nR3AQADAgADeAADLwQ	1210000	"Артикул: MGWС0033 Материал: Серебро Проба: 913	Серебрянные кулон MGWС0033 День и Ночь
